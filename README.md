@@ -45,14 +45,17 @@ blog-application/
 └── uplad/               # Directory to store uploaded blog images[cite: 8, 9, 12]
 
 ## 📷 Screenshots
-### 🟢 User Registration Page
-<img width="844" height="450" alt="Screenshot 2026-10-06 172723" src="https://github.com/user-attachments/assets/d1073444-391d-4f5e-bff8-1dc87c9a3221" />
-### 🔵 User Login Page
-<img width="860" height="594" alt="Screenshot 2026-10-06 172647" src="https://github.com/user-attachments/assets/d2f5e8a3-139f-4c45-bd43-c331a287a9d1" />
-### 🔴 Add New Blog Post
-<img width="721" height="632" alt="Screenshot 2026-10-06 172603" src="https://github.com/user-attachments/assets/f9746003-83e3-467e-b3b9-7bb17eaaf86d" />
-### 🟣 Main Blog Dashboard
-<img width="1517" height="695" alt="Screenshot 2026-10-06 172305" src="https://github.com/user-attachments/assets/8217ca36-42e0-46d3-95c1-78ff57306b5f" />
-<img width="1266" height="905" alt="Screenshot 2026-10-06 172521" src="https://github.com/user-attachments/assets/6045aca6-8230-4603-84fc-49a165f536cf" />
 
+### 🟢 User Registration Page
+![User Registration](Screenshot_2026-10-06_172723.png)
+
+### 🔵 User Login Page
+![User Login](Screenshot_2026-10-06_172647.png)
+
+### 🔴 Add New Blog Post
+![Add New Blog Post](Screenshot_2026-10-06_172603.png)
+
+### 🟣 Main Blog Dashboard
+![Main Blog Dashboard 1](Screenshot_2026-10-06_172305.png)
+![Main Blog Dashboard 2](Screenshot_2026-10-06_172521.png)
 
