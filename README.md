@@ -44,6 +44,7 @@ blog-application/
 │── logout.php           # Destroys session and logs out user[cite: 14]
 └── uplad/               # Directory to store uploaded blog images[cite: 8, 9, 12]
 ---
+
 ## 📷 Screenshots
 
 ### 🟢 User Registration Page
@@ -59,5 +60,4 @@ blog-application/
 ![Main Blog Dashboard 1](dashbord.png)
 ![Main Blog Dashboard 2](dashbord.1png)
 
-<img width="527" height="495" alt="Screenshot 2026-08-13 102016" src="https://github.com/user-attachments/assets/04254486-e915-484f-9f4e-5dfa06ca475d" />
-<img width="1159" height="226" alt="Screenshot 2025-12-27 122343" src="https://github.com/user-attachments/assets/a95a005a-2419-47c3-ba42-dc1bd93117f8" />
+
